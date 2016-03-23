@@ -1,13 +1,4 @@
----
-date: "March 23, 2016"
-output:
-  html_document:
-    fig_height: 7
-    fig_width: 9
-    keep_md: yes
-    toc: yes
-    toc_float: yes
----
+March 23, 2016  
 
 Johnny Coder
 ============
